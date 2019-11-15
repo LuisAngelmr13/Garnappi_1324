@@ -1,7 +1,33 @@
 .parrafo1{
     margin: 0 50px;
+    /* border: rgb(255, 21, 111) solid 4px; */
+
+    /* rgb(255, 209, 4); */
     
 }
-.bodystyle{
-    background-color: rgba(238, 95, 12, 0.945);
+.texto1 {
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+    border: rgba(255, 217, 0, 0.945) solid 5px ;
+    background-color: rgb(255, 209, 4);;
+
+}
+.datocurioso{
+    font-family: sans-serif;
+    font-style: italic;
+    border: rgba(255, 217, 0, 0.945) solid 5px ;
+    background-color: rgb(255, 209, 4);;
+}
+.textopri{
+    text-align: center;
+    font-family: fantasy;
+    border: rgb(255, 21, 111) solid 4px;
+    width: 100%;
+   background-color: rgb(255, 21, 111);
+ }
+.imgacm{
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
 }
