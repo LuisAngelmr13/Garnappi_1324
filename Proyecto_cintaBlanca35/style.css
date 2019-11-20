@@ -31,3 +31,20 @@
     height: 50%;
     object-fit: cover;
 }
+.logoimg{
+    width: 60px;
+ }
+
+​
+ 
+   /* Cards */
+​
+​
+.customCard {
+    border-radius: 0 !important;
+    background-color: rgb(255, 209, 4) !important;
+    caret-color: #fff !important;
+    border: solid 1px #fff !important;
+    
+}
+
